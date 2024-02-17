@@ -1,0 +1,33 @@
+.all-shapes{
+    text-align: center;
+    font-size: xx-large;
+    padding: 100px;
+    margin: auto;
+    
+
+}
+.shape-1{
+   
+    outline: 5px solid black;
+    border: 5px solid red;
+    padding: 20px;
+    margin: 20px;
+    
+}
+.shape-2{
+    outline: 5px solid black;
+    border: 5px solid;
+    border-color: blue green;
+    padding: 20px;
+    margin: 20px;
+
+}
+.shape-3{
+    outline: 5px solid black;
+    border: 5px solid ;
+    border-color:red green yellow blue ;
+    border-style: dashed;
+    padding: 20px;
+    margin: 20px;
+
+}
